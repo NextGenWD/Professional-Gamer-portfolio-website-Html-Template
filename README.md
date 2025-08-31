@@ -1,0 +1,2 @@
+This is a futuristic and immersive single-page portfolio theme designed for professional gamers. It features a dark, modern aesthetic with vibrant neon glow effects in purple and cyan, an animated gradient background, and interactive elements like a custom cursor and scroll animations. The layout is clean, responsive, and includes dedicated sections for showcasing main games, live streams, career achievements, and sponsors, creating a polished and professional online presence.
+Preview Design: https://nextgenwd.github.io/Professional-Gamer-portfolio-website-Html-Template/
